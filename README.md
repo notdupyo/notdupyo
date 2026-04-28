@@ -10,7 +10,7 @@
 ## 기술
 
 - **주력** : C#, WPF (.NET)
-- **경험 있음** : Java, Spring Boot, SQL, Oracle, C
+- **경험 있음** : Java, Spring Boot, SQL, Oracle SQL Developer, C
 - **학습 중** : Rust, Python, C++
 
 ## 연락
@@ -34,7 +34,7 @@ Interested in machine vision, edge computing, and IoT.
 ## Skills
 
 - **Primary** : C#, WPF (.NET)
-- **Experienced** : Java, Spring Boot, SQL, Oracle, C
+- **Experienced** : Java, Spring Boot, SQL, Oracle SQL Developer, C
 - **Learning** : Rust, Python, C++
 
 ## Contact
